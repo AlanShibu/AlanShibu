@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlanShibu
 - 👀 I’m interested in coding and web development.
 - 🌱 I’m currently learning B.Tech in computer science engineering at Christ colllege of engineering,Irinjalakuda.
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: email id-alanshibum4902@gmail.com
 
 <!---
